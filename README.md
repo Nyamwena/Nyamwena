@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here is my prrofile https://nyamwena.github.io/elistair-nyamwena-portfolio/
+
 <!--
 **Nyamwena/Nyamwena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
